@@ -41,7 +41,6 @@ You can also open `Project 1.html`; it redirects to the main page.
 - HTML5
 - CSS3
 - Google Fonts
-- Unsplash image URLs
 
 No JavaScript, Bootstrap, React, or other frameworks are used.
 
